@@ -1,0 +1,119 @@
+
+#page{
+	margin-left:20%;
+
+}
+
+.gauche
+{
+	background-color:#ffc961;
+	display:inline-block;
+	width:330px;
+	height:1300px;
+	vertical-align:top;
+}
+
+.droite
+{
+
+	width:600px;
+	height:1300px;
+	display:inline-block;
+	background-color:white;
+}
+
+p
+{
+	
+}
+
+h1
+{
+	float: right;
+	
+}
+
+h3
+{
+	font-style:bold;
+	color:#ffc961;
+	text-align:center;
+}
+
+h5
+{
+	color:#048b9a;
+	margin-left:20px;
+}
+img
+{
+	width:70px ; 
+	height:100px;
+	
+}
+
+img
+{
+	margin-left:80px;
+	margin-top:10px;
+	width:170px;
+	height:200px;
+	align:center;
+}
+fieldset
+{
+	border-radius: 10px;
+	border-color:#ffc961;
+}
+
+h2
+{
+	color:#ffc961;
+	text-align:center;
+	font-size:50px;
+}
+
+.intro
+{
+	color:#048b9a;
+	font-size:20px;
+	text-align:center;
+}
+
+.jaune
+{
+	color:black;
+	font-size:25px;
+}
+
+.outils
+{
+	margin-top:200px;
+	mergin-left:50px;
+}
+
+#info
+{
+	width:200px;
+	height:200px;
+	vertical-align:center;
+}
+
+.all
+{
+	text-align:center;
+}
+
+.num
+{
+	text-align:center;
+}
+.presentation
+{
+	text-align:center;
+}
+logo
+{
+	width:100px;
+	height:25px;
+}
